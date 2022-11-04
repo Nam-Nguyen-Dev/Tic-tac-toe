@@ -2,7 +2,7 @@
 
 Basic tic-tac-toe game.
 
-<img src="#" alt="Screenshot of tic-tac-toe website">
+<img src="https://github.com/Nam-Nguyen-Dev/tic-tac-toe/blob/main/Screenshot.png" alt="Screenshot of tic-tac-toe website">
 
 
 ## How It's Made:
